@@ -1,1 +1,1 @@
-web: gunicorn consultant_management.consultant_management.wsgi:application
+web: gunicorn consultant_management.wsgi:application
